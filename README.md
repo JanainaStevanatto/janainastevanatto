@@ -1,11 +1,18 @@
 Olá, sou a Janaina Ramos 👋
 
+👨‍💻 Apaixonada por tecnologia.
 
-📚  Estudande de programação
+🎨 Habilidades: HTML, CSS, Bootstrap, JavaScript, ReactJs, TypeScript, SCRUM , KANBAN
+
+🚀 Projetos: Desenvolvimento de interfaces dinâmicas e responsivas.
+
+📚 Aprendizagem contínua: Sempre explorando novas tecnologias e melhores práticas.
 
 📚 Graduanda em Análise e Desenvolvimento de Sistemas
 
-💻 Tecnologias: HTML, CSS, Bootstrap, JavaScript, ReactJs, TypeScript, SCRUM , KANBAN
+
+
+
 
 
 
